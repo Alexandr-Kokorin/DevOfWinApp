@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\bin\Debug\Lab2CS.exe.config
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\bin\Debug\Lab2CS.exe
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\bin\Debug\Lab2CS.pdb
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.MainForm.resources
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.exe
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.pdb
+C:\Users\Admin\source\repos\Lab2CS\Lab2CS\obj\Debug\Lab2CS.backgroundSettings.resources
